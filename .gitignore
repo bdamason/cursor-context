@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- Virtual envs / local tooling ---
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Logs / temp ---
+*.log
+*.tmp
+*.bak
+
